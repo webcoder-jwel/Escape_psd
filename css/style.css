@@ -97,6 +97,12 @@ header{
 	padding: 15px 30px;
 	text-decoration: none;
 }
+.banner button:hover{
+	color:#fff;
+	cursor: pointer;
+	background: #a26ea1;
+	border:1px solid #a26ea1;
+}
 .banner a{
 	text-decoration: none;
 	color: #fff;
@@ -496,6 +502,8 @@ header{
 }
 .form input[type="submit"]:hover{
 	cursor: pointer;
+	color:#fff;
+	background: #a26ea1;
 }
 /* end contact_us area */
 
